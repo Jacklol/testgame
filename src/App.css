@@ -1,0 +1,11 @@
+.mainWrapper {
+  width: 90%;
+  margin: 10px auto;
+}
+.gamecard{
+  display: 'inline-block';
+  padding: ' 0 30px 0 0' ;
+}
+.gameScore{
+  color:'red'
+}
